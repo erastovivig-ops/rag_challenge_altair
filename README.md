@@ -9,7 +9,8 @@
 
   
 
-$$\text{Вопрос} \rightarrow \text{retrieve()} \rightarrow \text{Top-}k \text{ chunks} \rightarrow \text{build\_context()} \rightarrow \text{build\_prompt()} \rightarrow \text{ask\_llm()} \rightarrow \text{Ответ со ссылками}$$
+ ### Вопрос⟶retrieve()⟶Top-k chunks⟶build_context()⟶build_prompt()⟶ask_llm()⟶Ответ
+
 
 
 ### Основные этапы работы:
