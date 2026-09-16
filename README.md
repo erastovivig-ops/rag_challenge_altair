@@ -11,6 +11,7 @@
 
 $$\text{Вопрос} \rightarrow \text{retrieve()} \rightarrow \text{Top-}k \text{ chunks} \rightarrow \text{build\_context()} \rightarrow \text{build\_prompt()} \rightarrow \text{ask\_llm()} \rightarrow \text{Ответ со ссылками}$$
 
+
 ### Основные этапы работы:
 
 1. **Подготовка данных и чанкинг (Chunking):**
